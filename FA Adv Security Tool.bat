@@ -54,7 +54,7 @@ netsh advfirewall set allprofiles state on
 cls
 echo Firewall is aktivated
 echo to end this close the file window
-goto a2
+goto start
 
 rem list all Prossesses
 :a3
